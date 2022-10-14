@@ -1255,7 +1255,7 @@ img {
 }
 
 .plantilla:hover {
-  transform: translateY(-1.5rem);
+  transform: translateY(-.8rem);
 }
 
 .contPlantillas {
